@@ -1,0 +1,166 @@
+.fon {
+    position: absolute;
+    width: 1920px;
+    height: 954px;
+    left: 0px;
+    top: 853px;
+    background: #EFEFEF;
+}
+
+.fonp {
+    width: 320px;
+    padding-top: 29px;
+    padding-left: 405px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.fon2 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    background: #FFFFFF;
+    margin-left: 405px;
+    margin-top: 20px;
+}
+
+.fon-img {
+    padding-top: 25px;
+    padding-left: 65px;
+}
+
+.fon2-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;
+}
+
+.fon2-text1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.fon2-text1-a {
+    text-decoration: none;
+}
+
+.fon2-knopka {
+    width: 130px;
+    height: 35px;
+    background: #66C05D;
+    border-radius: 30px;
+    margin-left: 65px;
+}
+
+.fon2-knopka:hover {
+    background-color: lightgreen
+}
+
+.fon2-knopka-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    padding-top: 8px;
+    text-decoration: none;
+}
+
+.fon3 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    background: #FFFFFF;
+    margin-left: 680px;
+    margin-top: 20px;
+}
+
+.fon4 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    background: #FFFFFF;
+    margin-left: 955px;
+    margin-top: 20px;
+}
+
+.fon5 {
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    background: #FFFFFF;
+    margin-left: 1230px;
+    margin-top: 20px;
+}
+
+.fon6 {
+    width: 540px;
+    height: 212px;
+    background: #66C05D;
+    margin-left: 955px;
+    margin-top: 463px;
+}
+
+.font6-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    padding-left: 35px;
+    padding-top: 40px;
+}
+
+.font6-text1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    padding-left: 40px;
+}
+
+.fon7-knopka {
+    position: absolute;
+    width: 170px;
+    height: 35px;
+    background: #66C05D;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.fon7-knopka-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 7px;
+}
+
+.fon7-knopka:hover {
+    background-color: rgb(180, 180, 245);
+}
